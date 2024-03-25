@@ -2,7 +2,7 @@
 # Test and Testability of SAYAC Embedded System
 
 Focusing on post-manufacturing test analysis:\
-1- We have developed an open-source test toolcahin called UT-DATE, which is available at: https://pypi.org/project/ut-date/\
+1- We have developed an open-source test toolcahin called UT-DATE, which is available at: https://pypi.org/project/ut-date/ \
 2- We have designed and incorporated several testability methods to test the SAYAC embedded system, including:
 * Processor 
 * Memory
