@@ -1,0 +1,18 @@
+Open Command Prompt 
+Go to the path where you have Atalanta and .bench file
+Enter the following command 
+
+	atalanta-M -t sayac.pat -W 2 -F sayac.flt -P sayac.rep SAYAC_unfolded.bench
+
+----------------------------------------------------------------------------------------------------
+// Generates test patterns for c7552.bench, writes them to c7552.pat. 
+// The complete fault list is written to c7552.flt.
+// writes the results to c7552.rep.
+	atalanta-M -t c7552.pat -W 1 -F c7552.flt -P c7552.rep c7552.bench
+
+// Generates test patterns for c7552.bench, writes them to c7552.pat.
+// The correct CUT responses are computed as well (c7552.pat -W 2) 
+// The complete fault list is written to c7552.flt.
+// writes the results to c7552.rep.
+
+atalanta-M -t c7552.pat -W 2 -F c7552.flt -P c7552.rep c7552.bench
