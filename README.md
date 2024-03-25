@@ -35,3 +35,6 @@ from the "view" tab ->
 select the "properties" option -> 
 go to the "VHDL" tab -> 
 select the "Use 1076-2008" option.
+
+# Disclaimer and Copyright
+Copyright (C) 2022 CINI Cybersecurity National Laboratory and University of Teheran.
