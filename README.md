@@ -1,4 +1,5 @@
-![alt text](image.png)
+![image](https://github.com/UTehran-NavabiLab/SAYAC-system-Testing/assets/75872371/16410af0-dc21-495d-a7aa-4cce7b5cc392)
+
 # Test and Testability of SAYAC Embedded System
 
 Focusing on post-manufacturing test analysis:\
