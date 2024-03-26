@@ -42,11 +42,11 @@ The data bus and address bus interconnects of the JTAG-compliant SAYAC processor
 
 ## Quick Links
 
-* **Stable Documentation**: 
-* **Test & Testability Codes**: 
+* **Stable Documentation**: https://github.com/UTehran-NavabiLab/SAYAC-system-Testing/tree/main/docs
+* **Test & Testability Codes**: https://github.com/UTehran-NavabiLab/SAYAC-system-Testing/tree/main/codes
 * **SAYAC System as DUT**: https://github.com/RHESGroup/SAYAC-Embedded-Processor
 * **Test Toolchain**: https://pypi.org/project/ut-date/
-* **Bugs and Feature Requests**:
+* **Bugs and Feature Requests**: https://github.com/UTehran-NavabiLab/SAYAC-system-Testing/issues
 
 ## Disclaimer and Copyright
 
