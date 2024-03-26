@@ -1,3 +1,0 @@
-Simulation is done successfully :) @ 749426445 ns
-SIMULATION TIME: 87 h & 36 min & 58 sec
-All TIME Units => 315418 sec ~ 5256 min ~ 87 h

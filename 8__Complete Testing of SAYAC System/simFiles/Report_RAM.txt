@@ -1,4 +1,0 @@
-===================================> @ 0.022585 ms   MBIST MODE is starting ...                                         
-faultNum 0 = SA@0 on Address = 0000000000000011, Bit Position = 0 injected @ 0.022595 ms                                                              
-Detected by TestVector = 0000000000000001 @ 0.678015 ms                                                                                               
-faultNum 1 = SA@0 on Address = 1100000011111101, Bit Position = 13 injected @ 0.678025 ms                                                             

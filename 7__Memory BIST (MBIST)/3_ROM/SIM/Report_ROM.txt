@@ -1,9 +1,0 @@
-===================================> @ 0 ns   NORMAL MODE is starting ... 
-===================================> @ 8045 ns   ROM MBIST MODE is starting ...                                         
-ROM FAULT DETECTED IN SECTION 0, GOLDEN SIGNATURE =1011111011111001, FAULTY SIGNATURE =1011111011111000 @ 9055 ns       
-ROM FAULT DETECTED IN SECTION 2, GOLDEN SIGNATURE =0010000100001010, FAULTY SIGNATURE =0010000100001001 @ 11055 ns      
-*******************************************************************                                                     
-*******************************************************************                                                     
-*******************************************************************                                                     
-2 FAULTY SEGMENTS DETECTED.                                                                                             
-ROM TEST FINISHED @ 14015 ns                                                                                            
