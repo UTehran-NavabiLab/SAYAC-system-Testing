@@ -1,0 +1,3 @@
+[submodule "codes/2__UTDATE/NBGen"]
+	path = codes/2__UTDATE/NBGen
+	url = https://github.com/UTehran-NavabiLab/NBGen.git
